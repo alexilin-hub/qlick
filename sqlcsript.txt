@@ -1,1 +1,1 @@
-select * fro table
+select * from table
